@@ -1,0 +1,97 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <DB2CodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </DB2CodeStyleSettings>
+    <DerbyCodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </DerbyCodeStyleSettings>
+    <H2CodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </H2CodeStyleSettings>
+    <HSQLCodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </HSQLCodeStyleSettings>
+    <JSCodeStyleSettings version="0">
+      <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    </JSCodeStyleSettings>
+    <JetCodeStyleSettings>
+      <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+        <value>
+          <package name="java.util" alias="false" withSubpackages="false" />
+          <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+          <package name="io.ktor" alias="false" withSubpackages="true" />
+        </value>
+      </option>
+      <option name="PACKAGES_IMPORT_LAYOUT">
+        <value>
+          <package name="" alias="false" withSubpackages="true" />
+          <package name="java" alias="false" withSubpackages="true" />
+          <package name="javax" alias="false" withSubpackages="true" />
+          <package name="kotlin" alias="false" withSubpackages="true" />
+          <package name="" alias="true" withSubpackages="true" />
+        </value>
+      </option>
+    </JetCodeStyleSettings>
+    <MSSQLCodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </MSSQLCodeStyleSettings>
+    <MySQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="3" />
+      <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+      <option name="ORIGINAL_CASE" value="true" />
+      <option name="QUOTE_IDENTIFIER" value="0" />
+      <option name="QUOTE_TYPE" value="31" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="101" />
+      <option name="INSERT_VALUES_EL_LINE" value="101" />
+      <option name="INSERT_COLLAPSE_MULTI_ROW_VALUES" value="true" />
+      <option name="SET_EL_LINE" value="101" />
+      <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+      <option name="SELECT_EL_LINE" value="101" />
+      <option name="FROM_EL_LINE" value="101" />
+      <option name="FROM_INDENT_JOIN" value="false" />
+      <option name="WHERE_EL_LINE" value="101" />
+      <option name="ORDER_EL_LINE" value="101" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="TABLE_TYPES_ALIGN" value="false" />
+      <option name="TABLE_DEFAULTS_ALIGN" value="false" />
+      <option name="TABLE_NULLABILITIES_ALIGN" value="false" />
+    </MySQLCodeStyleSettings>
+    <OracleCodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </OracleCodeStyleSettings>
+    <PostgresCodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </PostgresCodeStyleSettings>
+    <SQLiteCodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </SQLiteCodeStyleSettings>
+    <SqlCodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </SqlCodeStyleSettings>
+    <SybaseCodeStyleSettings version="2">
+      <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_id" />
+    </SybaseCodeStyleSettings>
+    <TypeScriptCodeStyleSettings version="0">
+      <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+    </TypeScriptCodeStyleSettings>
+    <codeStyleSettings language="MySQL">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="TypeScript">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
